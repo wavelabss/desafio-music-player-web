@@ -1,4 +1,4 @@
-# Dasafio Music Player Web Mobile
+# Desafio Music Player Web Mobile
 
 Serviços de streaming estão cada vez mais em alta, não é mesmo? Agora é hora de você ter seu próprio streaming de músicas e podcasts! 
 
